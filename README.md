@@ -1,2 +1,2 @@
 # code-notes
-Notes for code stuff
+Personal notes for code stuff
