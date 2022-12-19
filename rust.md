@@ -5,6 +5,7 @@
 ## Clear output buffer
 - io::stdout().flush().unwrap();
 - Use after print! function
+- Requires std::io::{stdout, Write}
 
 ## Return types
 - fn something() -> u32
