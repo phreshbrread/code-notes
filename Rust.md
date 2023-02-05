@@ -1,4 +1,3 @@
-# Rust
 ## Parse command line input to variable
 - ``io::stdin().read_line(&mut **[Variable]**).unwrap();``
 

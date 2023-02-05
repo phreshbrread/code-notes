@@ -1,0 +1,4 @@
+- C++ => g++
+- Rust => rustc, cargo
+- C# => dotnet
+- C => gcc, clang
