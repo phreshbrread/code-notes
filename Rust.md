@@ -8,4 +8,19 @@
 
 ## Return types
 - ``fn something() -> u32``
-- "->" points to return type for function
+- "``->``" points to return type for function
+
+## Match case with strings
+- use ``.as_str()``
+- Example:
+```rust
+match stringthing.as_str() {
+    "a" => println!("0"),
+    "b" => println!("1"),
+    "c" => println!("2"),
+    _ => println!("something else!"),
+}
+```
+
+## Constant string
+- ``const VARIABLE_NAME: &str = "String"``
